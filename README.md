@@ -9,3 +9,6 @@ Downtown Milwaukee, WI
 Presentation slides:  
 [Getting to Machine Reading](mr_urbain.pdf)  
 
+Tutorial:   
+[DeepNLPIntro](https://github.com/jayurbain/DeepNLPIntro)
+
